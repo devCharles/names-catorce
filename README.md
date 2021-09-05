@@ -13,6 +13,11 @@
 11. Selene Chavez @S3len3Ch4vz
 12. Daniel Alvarado @DanielAlvarado2010
 13. Abraham Amaro @Abrahamamaro
+<<<<<<< HEAD
 14. Marco Fernándezz @mark060594
 15. Brisa Hernandez @Breeze2022
+16. Omar Mijangos @OmarMC2
+=======
+14. Omar Mijangos @OmarMC2
 
+>>>>>>> 953dfad2bce2f8e30de48ebb45f486f6520c5879
