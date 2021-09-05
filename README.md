@@ -10,6 +10,5 @@
 8. Luis Balan @LuisBalan
 9. Jesus Manuel Ramon @jramon901225
 10. Rafael Martínez @RafaMtz2021
-11. Daniel Alvarado Loyo @DanielAlvarado2010
 11. Selene Chavez @S3len3Ch4vz
 12. Daniel Alvarado @DanielAlvarado2010
