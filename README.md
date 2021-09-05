@@ -13,4 +13,6 @@
 11. Selene Chavez @S3len3Ch4vz
 12. Daniel Alvarado @DanielAlvarado2010
 13. Abraham Amaro @Abrahamamaro
-14. Omar Mijangos @OmarMC2
+14. Marco Fernándezz @mark060594
+15. Brisa Hernandez @Breeze2022
+16. Omar Mijangos @OmarMC2
