@@ -7,4 +7,7 @@
 5. Jairo Rocano @JRocano
 6. Jesus Solis @yesus0212
 7. Odon Mizrrain Lozada Carrasco @odonML
-8. Alvarado Loyo Daniel Alejandro @DanielAlvarado2010
+8. Luis Balan @LuisBalan
+9. Jesus Manuel Ramon @jramon901225
+10. Rafael Martínez @RafaMtz2021
+11. Daniel Alvarado Loyo @DanielAlvarado2010
