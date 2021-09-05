@@ -3,4 +3,6 @@
 1. Charles Silva @devCharles
 2. Carlos Martinez @cmtzvitela
 3. Luis Mora @moriuks
-4. Luis Balan @LuisBalan
+4. German Martinez @grmnmtz
+5. Jairo Rocano @JRocano
+6. Luis Balan @LuisBalan
