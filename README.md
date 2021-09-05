@@ -1,4 +1,6 @@
 # names-catorce
 
 1. Charles Silva @devCharles
-2. Luis Balán @LuisBalan
+2. Carlos Martinez @cmtzvitela
+3. Luis Mora @moriuks
+4. Luis Balan @LuisBalan
