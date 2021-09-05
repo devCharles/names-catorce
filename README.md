@@ -6,5 +6,6 @@
 4. German Martinez @grmnmtz
 5. Jairo Rocano @JRocano
 6. Jesus Solis @yesus0212
-7. Abraham Amaro @Abrahamamaro
+7. Odon Mizrrain Lozada Carrasco @odonML
+8. Abraham Amaro @Abrahamamaro
 
