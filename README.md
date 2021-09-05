@@ -3,4 +3,5 @@
 1. Charles Silva @devCharles
 2. Carlos Martinez @cmtzvitela
 3. Luis Mora @moriuks
-4. Odon ML @odonML
+4. German Martinez @grmnmtz
+5. OdonML @odonML
