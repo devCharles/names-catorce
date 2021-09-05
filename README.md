@@ -5,5 +5,6 @@
 3. Luis Mora @moriuks
 4. German Martinez @grmnmtz
 5. Jairo Rocano @JRocano
-6. Jairo Rocano @JRocano
+6. Jesus Solis @yesus0212
+7. Henry Rocano @JRocano
 
