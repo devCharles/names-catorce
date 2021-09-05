@@ -4,4 +4,7 @@
 2. Carlos Martinez @cmtzvitela
 3. Luis Mora @moriuks
 4. German Martinez @grmnmtz
-5. Selene Chavez @S3len3Ch4vz
+5. Jairo Rocano @JRocano
+6. Jesus Solis @yesus0212
+7. Odon Mizrrain Lozada Carrasco @odonML
+8. Selene Chavez @S3len3Ch4vz
